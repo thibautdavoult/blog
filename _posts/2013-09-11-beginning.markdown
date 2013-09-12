@@ -5,7 +5,7 @@ date:   2013-09-11 21:36:00
 categories: Ramblings
 ---
 
-# The Beginning of a new Era
+# The Beginning
 ## This is a test post
 ### To see how my design works
 
