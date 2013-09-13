@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Why Github Pages"
+date:   2013-09-12 19:36:00
+categories: Ramblings
+---
+
 # On coding something else than HTML
 ## Quick intro: I don’t (usually) code
 I have never coded something. To me, Ruby, Python, Node, C, C++, Pascal are just names. I read about them, I have some diffuse ideas of concepts about these languages but it’s just what I heard actual developers say. I never actually got my hands dirty playing with any of them.
@@ -19,5 +26,3 @@ No, what made me want to try setting up my own blog on Github Pages is this:
 So there you have it. That’s how 3 days ago I opened Terminal with a purpose for the first time.
 
 ## Github Pages + Jekyll = Very easy for a developer, not so much for me
-
-
