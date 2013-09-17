@@ -5,6 +5,9 @@
 /*****************************************************************************/
 
 /* Global Reset */
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans|Open+Sans);
+
 * {
   margin: 0;
   padding: 0;
@@ -22,13 +25,15 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+  font-size: 180%;
+  font-family: 'PT Sans', sans-serif;
+  margin-bottom: :1em ;
   }
 
 h1 { margin-bottom: 1em; }
@@ -85,7 +90,7 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .site .header h1.title a {
@@ -116,7 +121,7 @@ ul.posts span {
   font-size: 80%;
   color: #666;
   border-top: 1px solid #eeeeee;
-  margin-top: 2em;
+  margin-top: 1.5em;
   overflow: hidden;
 }
 
