@@ -70,11 +70,11 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 130%;
+  font-size: 140%;
   text-align: justify;
   width: 40em;
   margin: 3em auto 2em;
-  line-height: 1.5em;
+  line-height: 1.7em;
 }
 
 .site h2 {
