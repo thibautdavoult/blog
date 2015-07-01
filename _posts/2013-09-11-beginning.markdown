@@ -5,9 +5,9 @@ date:   2013-09-11 21:36:00
 categories: Ramblings
 ---
 
-# The Beginning
-## This is a test post
-### To see how my design works
+# H1
+## H2
+### H3
 
 1. list
 2. list item 2
